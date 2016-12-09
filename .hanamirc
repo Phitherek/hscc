@@ -1,4 +1,4 @@
 project=hscc
 architecture=container
-test=minitest
-template=erb
+test=rspec
+template=haml
