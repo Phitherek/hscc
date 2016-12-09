@@ -1,10 +1,13 @@
 !!! 5
 %html
   %head
-    %title HSCC
+    %title Centrum zarządzania Hackerspace Kraków
     = favicon
     = javascript 'jquery'
     = javascript 'bootstrap'
     = stylesheet 'bootstrap'
-  %body>
-    = yield
+  %body
+    .container
+      .row
+        .col-md-12
+          = yield
