@@ -9,6 +9,8 @@ gem 'pg'
 gem 'haml'
 gem 'sass'
 gem 'coffee-script'
+gem 'jquery-hanami'
+gem 'hanami-bootstrap'
 
 group :development do
   # Code reloading
