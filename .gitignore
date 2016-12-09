@@ -1,0 +1,7 @@
+/public/assets*
+/tmp
+*~
+*#
+*.iml
+.idea
+.rvmrc
